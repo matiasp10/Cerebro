@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8c3a50b40b965bb6",
+        "id": "65ee34fe74d995ec",
         "type": "tabs",
         "children": [
           {
-            "id": "d287e1b0fcc91047",
+            "id": "def3071a2107bda2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Lenguajes de programación A/Semana 1.md",
+                "file": "Ejercicios JavaScript/Find the capitals.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc07df555a195115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Lenguajes de programación A/S1 -  Enlaces de variables en ML sintaxis, semántica y tipos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b4a46794944a063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Como funciona la web.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf131e8d204ffad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ejercicios JavaScript/Flatten and sort an array.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f09f24ad2595308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios JavaScript/Flatten and sort an array.md",
+                "file": "Ejercicios JavaScript/Find the capitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios JavaScript/Flatten and sort an array.md"
+                "file": "Ejercicios JavaScript/Find the capitals.md"
               }
             }
           },
@@ -249,12 +195,13 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "cf131e8d204ffad8",
+  "active": "def3071a2107bda2",
   "lastOpenFiles": [
-    "Ejercicios JavaScript/1's, 0's and wildcards.md",
-    "Ejercicios JavaScript/Flatten and sort an array.md",
-    "Flowcharts (Diagramas de flujo).md",
     "Home.md",
+    "Ejercicios JavaScript/Find the capitals.md",
+    "Ejercicios JavaScript/Flatten and sort an array.md",
+    "Ejercicios JavaScript/1's, 0's and wildcards.md",
+    "Flowcharts (Diagramas de flujo).md",
     "Cursos/Lenguajes de programación A/Semana 1.md",
     "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Como funciona la web.md",
     "Cursos/Lenguajes de programación A/S1 - Ausencia de mutación en ML.md",
@@ -280,7 +227,6 @@
     "Glosario.md",
     "Aliasing.md",
     "Cursos/CS50’s Introduction to Programming with Python/0 - Functions, variables.md",
-    "Cursos/Lenguajes de programación A/Lenguajes de programación A.md",
     "Cursos",
     "Flashcards",
     "Sin título 2.canvas",
