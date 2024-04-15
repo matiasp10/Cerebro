@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "83fd4616528e6661",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c3a50b40b965bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d287e1b0fcc91047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Lenguajes de programación A/Semana 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc07df555a195115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Lenguajes de programación A/S1 -  Enlaces de variables en ML sintaxis, semántica y tipos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b4a46794944a063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Como funciona la web.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf131e8d204ffad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios JavaScript/Flatten and sort an array.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f09f24ad2595308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beb5b040f5cf6a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "12fe954380f3cd18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2844625ec3dd8cb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a293d7790c7e6182",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#5kyu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3e4237ed38219c8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6c2a3da69cdb59b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9204f59c8c3dd2a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "3cdb07719f68ced7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f966b6079b9cfca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23bd6fa6f40f2c68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40eb1fd26b20a0e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ejercicios JavaScript/Flatten and sort an array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d09ae0c32d9d73e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "45c2ff4a1969f35f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d50b595f1af3c3f4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "09a990ce7ddfd870",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ejercicios JavaScript/Flatten and sort an array.md"
+              }
+            }
+          },
+          {
+            "id": "ceb86e8b8c87a254",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "size-history:Vault size history": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Revisar Tarjetas": false
+    }
+  },
+  "active": "cf131e8d204ffad8",
+  "lastOpenFiles": [
+    "Ejercicios JavaScript/1's, 0's and wildcards.md",
+    "Ejercicios JavaScript/Flatten and sort an array.md",
+    "Flowcharts (Diagramas de flujo).md",
+    "Home.md",
+    "Cursos/Lenguajes de programación A/Semana 1.md",
+    "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Como funciona la web.md",
+    "Cursos/Lenguajes de programación A/S1 - Ausencia de mutación en ML.md",
+    "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end",
+    "Cursos/Certificado profesional de Desarrollador de front-end de Meta",
+    "Cursos/Lenguajes de programación A/S1 - Expresiones ML y enlaces de variables.md",
+    "Cursos/Lenguajes de programación A/S1 -  Enlaces de variables en ML sintaxis, semántica y tipos.md",
+    "Cursos/Introduction To Computer Science And Programming In Python",
+    "Cursos/How to Design Programs/Datos de tamaño fijo.md",
+    "Cursos/How to Design Programs/Aritmética.md",
+    "Cursos/How to Design Programs/La aritmética de los números.md",
+    "Cursos/How to Design Programs",
+    "Cursos/Lenguajes de programación A/S1 - Opciones.md",
+    "Cursos/Lenguajes de programación A/S1 - Expresiones let en ML.md",
+    "Cursos/Lenguajes de programación A/S1 - Listas.md",
+    "Excalidraw/langprogfastvsunusable.md",
+    "Cursos/Lenguajes de programación A/S1 - Pares y tuplas en ML.md",
+    "Cursos/Lenguajes de programación A/S1 - Enlaces de funciones.md",
+    "Programación Web/JavaScript/JavaScript.md",
+    "Programación funcional.md",
+    "Proyectos.md",
+    "Mi carrera.md",
+    "Glosario.md",
+    "Aliasing.md",
+    "Cursos/CS50’s Introduction to Programming with Python/0 - Functions, variables.md",
+    "Cursos/Lenguajes de programación A/Lenguajes de programación A.md",
+    "Cursos",
+    "Flashcards",
+    "Sin título 2.canvas",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Ciencias de la computación/SEC - Seguridad",
+    "Programación Web",
+    "Ciencias de la computación/MSF - Fundamentos Matemáticos y Estadísticos",
+    "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software",
+    "Ciencias de la computación/CS2023.canvas",
+    "Imagenes/Pasted image 20240301101807.png",
+    "Imagenes/Pasted image 20240301101456.png",
+    "Imagenes/Pasted image 20240218205305.png",
+    "Imagenes/Pasted image 20240120180528.png",
+    "Imagenes/Pasted image 20240120104057.png",
+    "Imagenes/Pasted image 20240120103901.png",
+    "Imagenes/Pasted image 20240120101625.png",
+    "Imagenes/Pasted image 20240111221536.png",
+    "Imagenes/Pasted image 20240111221102.png",
+    "Imagenes/Pasted image 20231205104246.png",
+    "Ciencias de la computación/AL - Algorithmic Foundation/Algoritmos y estructuras de datos/Algoritmos y estructuras de datos.canvas",
+    "Programación Web/TypeScript/Resumen.canvas",
+    "Programación Web/JavaScript/Resumen.canvas",
+    "Programación Web/NodeJS/NodeJS.canvas",
+    "HTML/HTML.canvas",
+    "Ciencias de la computación/General/Mi Carrera.canvas"
+  ]
+}

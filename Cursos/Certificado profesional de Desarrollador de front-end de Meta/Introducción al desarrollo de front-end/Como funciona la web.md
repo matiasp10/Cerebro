@@ -1,0 +1,6 @@
+- Que es la red?
+- como se comunican
+- Conmutador de red
+- Red interconectada (Internet)
+- Clientes y servidores
+- 

@@ -1,0 +1,21 @@
+En ingeniería, una heurística es un **método basado en la experiencia que puede utilizarse como ayuda para resolver problemas de diseño**, desde calcular los recursos necesarios hasta en planear las condiciones de operación de los sistemas. Mediante el uso de heurísticas, es posible resolver más rápidamente problemas conocidos o similares a otros conocidos. Existen varios métodos heurísticos disponibles para los ingenieros como, por ejemplo, el [Análisis modal de fallos y efectos](https://es.wikipedia.org/wiki/An%C3%A1lisis_modal_de_fallos_y_efectos "Análisis modal de fallos y efectos") y los árboles de fallo. En el primero se depende de un grupo de ingenieros experimentados que evalúan los problemas y fallos, los ordenan según su importancia y recomiendan soluciones.
+
+Otros, como los métodos de ingeniería forense, son una amplia fuente de información para la investigación de problemas y responsables, y se basan en la heurística del eslabón más débil y en la eliminación de causas improbables. El conocimiento de qué causas son probables y cuáles no, forma una heurística aprendida por la profesión durante muchos años, más que un conocimiento científico aplicado.
+
+Dado que las heurísticas pueden equivocarse, es fundamental conocer los casos en los que son aplicables y los límites a su uso. En general, en la ingeniería deben considerarse como ayudas o apoyos para hacer estimaciones rápidas y diseños preliminares, pero no como justificaciones finales de un diseño o proyecto u otros.
+
+## La heurística como metodología científica
+
+Como [metodología científica](https://es.wikipedia.org/wiki/Metodolog%C3%ADa_cient%C3%ADfica "Metodología científica"), la heurística es aplicable a cualquier [ciencia](https://es.wikipedia.org/wiki/Ciencia "Ciencia") e incluye la elaboración de medios auxiliares, principios, reglas, estrategias y programas que faciliten la búsqueda de vías de solución a problemas; o sea, para resolver tareas de cualquier tipo para las que no se cuente con un [procedimiento algorítmico](https://es.wikipedia.org/wiki/Algoritmo "Algoritmo") de solución. Según [Horst Müler](https://es.wikipedia.org/w/index.php?title=Horst_M%C3%BCler&action=edit&redlink=1 "Horst Müler (aún no redactado)"): «Los procedimientos heurísticos son formas de trabajo y de pensamiento que apoyan la realización consciente de actividades mentales exigentes». Los procedimientos heurísticos como [método científico](https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico "Método científico") pueden dividirse en principios, reglas y estrategias.
+
+- Principios heurísticos: constituyen sugerencias para encontrar —directamente— la idea de solución; posibilita determinar, por tanto, a la vez, los medios y la vía de solución. Dentro de estos principios se destacan la [analogía](https://es.wikipedia.org/wiki/Analog%C3%ADa "Analogía") y la reducción ([modelización](https://es.wikipedia.org/wiki/Modelo_cient%C3%ADfico "Modelo científico")).
+- Reglas heurísticas: actúan como impulsos generales dentro del proceso de búsqueda y ayudan a encontrar, especialmente, los medios para resolver los problemas. Las reglas heurísticas que más se emplean son:
+    - Separar lo dado de lo buscado.
+    - Confeccionar figuras de análisis: esquemas, tablas, mapas, etc.
+    - Representar magnitudes dadas y buscadas con variables.
+    - Determinar si se tienen fórmulas adecuadas.
+    - Utilizar números —estructuras más simples— en lugar de datos.
+    - Reformular el problema.
+- Estrategias heurísticas: se comportan como recursos organizativos del proceso de resolución, que contribuyen especialmente a determinar la vía de solución del problema abordado. Existen dos estrategias:
+    - El trabajo hacia adelante: se parte de lo dado para realizar las reflexiones que han de conducir a la solución del problema: [hipótesis](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_(m%C3%A9todo_cient%C3%ADfico) "Hipótesis (método científico)").
+    - El trabajo hacia atrás: se examina primeramente lo que se busca y, apoyándose en los conocimientos que se tienen, se analizan posibles resultados intermedios de lo que se puede deducir lo buscado, hasta llegar a los dados.

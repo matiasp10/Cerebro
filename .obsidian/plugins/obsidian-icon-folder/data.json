@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiGrowth",
+      "TiBook",
+      "FabSpaceAwesome",
+      "SiPlatzi",
+      "LiSwords"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true,
+    "debugMode": false
+  },
+  "Java": "FabJava",
+  "Python": "SiPython",
+  "Ingles": "SiGoogletranslate",
+  "Imagenes": "LiImage",
+  "HTML": "SiHtml5",
+  "Flashcards": "FasGlasses",
+  "Excalidraw": "TiPaint",
+  "Ejercicios JavaScript": "LiSwords",
+  "Platzi": "SiPlatzi",
+  "Ciencias de la computación": "TiBook",
+  "Cursos": "TiGrowth"
+}

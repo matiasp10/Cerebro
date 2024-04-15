@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "83fd4616528e6661",
+    "type": "split",
+    "children": [
+      {
+        "id": "c46f94b59440af38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Autenticacion basada en tokens.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beb5b040f5cf6a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "12fe954380f3cd18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2844625ec3dd8cb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a293d7790c7e6182",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cdb07719f68ced7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f966b6079b9cfca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a74ab96b214bc3aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Autenticacion basada en tokens.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23bd6fa6f40f2c68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8f07f20613c5dd6",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c46f94b59440af38",
+  "lastOpenFiles": [
+    "Glosario.md",
+    "API/REST API.png",
+    "API/REST.md",
+    "API/Introduccion.md",
+    "API/Como Funciona una API.png",
+    "Pasted image 20221005192206.png",
+    "React/Introduccion.md",
+    "Eventos/Eventos - Introduccion.md",
+    "Ejercicios JavaScript/Reverse array of digits.md",
+    "Ejercicios JavaScript/Opposite numbers.md"
+  ]
+}

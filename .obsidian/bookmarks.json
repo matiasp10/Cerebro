@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1699148152657,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1699218271413,
+          "path": "Ciencias de la computación/MSF - Fundamentos Matemáticos y Estadísticos/Matematicas/latex-cheatsheet.pdf"
+        },
+        {
+          "type": "file",
+          "ctime": 1699148144803,
+          "path": "Programacion/Simbolos matematicos.pdf"
+        }
+      ],
+      "title": "Cheatsheets"
+    }
+  ]
+}

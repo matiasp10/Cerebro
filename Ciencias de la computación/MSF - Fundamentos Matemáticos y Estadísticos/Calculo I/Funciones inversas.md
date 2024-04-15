@@ -1,0 +1,1 @@
+https://www.superprof.es/apuntes/escolar/matematicas/calculo/funciones/funcion-inversa.html

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a808fa875b1658ed","x":-420,"y":-360,"width":400,"height":400,"type":"file","file":"Programación Web/TypeScript/TypeScript para el nuevo programador.md"},
+		{"id":"8d782e65d9e1c5bf","x":240,"y":-160,"width":400,"height":400,"type":"file","file":"Programación Web/TypeScript/TypeScript para programadores de JavaScript.md"}
+	],
+	"edges":[
+		{"id":"ca6fdcac6e473481","fromNode":"a808fa875b1658ed","fromSide":"right","toNode":"8d782e65d9e1c5bf","toSide":"left"}
+	]
+}

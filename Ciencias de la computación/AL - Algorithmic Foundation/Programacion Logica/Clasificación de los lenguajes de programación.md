@@ -1,0 +1,13 @@
+Se pueden clasificar según su nivel de abstracción o el paradigma de la programación, entre otros. Un paradigma de programación define un modelo o patrón con reglas y pautas que todo desarrollador debe seguir para resolver una situación problemática.
+### Nivel de abstracción
+
+- **Lenguaje máquina**: Es el que comprende el procesador de una computadora. Los programas escritos en este lenguaje consisten en una serie de cadenas binarias (secuencia de ceros y unos) y, debido a esto, son únicamente legibles por una computadora.
+- **Lenguaje de bajo nivel**: Su comprensión requiere una complejidad menor al lenguaje máquina, pero sigue teniendo una fuerte dependencia con el entendimiento de las estructuras y el funcionamiento técnico de la computadora; debido a esto, entender programas escritos en este lenguaje es complejo.
+- **Lenguaje de alto nivel**: utiliza sintaxis y estructuras que resultan más fáciles de entender para las personas que escriben programas. Se emplean palabras del lenguaje natural y se aleja de los tecnicismos de la computadora. Los programas escritos en este lenguaje necesitan de un intérprete o compilador para traducir las instrucciones a lenguaje de bajo nivel.
+
+### Paradigma de programación
+
+- **Lenguaje imperativo**: Consiste en un conjunto de instrucciones que la computadora debe ejecutar. Estas le indican a la computadora cómo debe realizarse una tarea mediante un algoritmo. Es decir, se hace énfasis en cómo debe hacerse dicha tarea y no en el porqué de su realización.
+- **Lenguaje funcional**: Se basa en la aplicación de funciones matemáticas y la composición entre ellas, a diferencia de los cambios de estado que define el lenguaje imperativo.
+- **Lenguaje lógico**: Aplica reglas lógicas para que, a partir de ellas, se pueda llegar a ciertas conclusiones luego de utilizar razonamiento formal. Los objetos de tales razonamientos son hechos. Se intenta llegar a la solución de un problema mediante la comprobación de la veracidad o falsedad de un conjunto de expresiones.
+- **Lenguaje orientado a objetos**: Organiza los datos en objetos que pueden almacenar y manipular información, en forma similar a como el ser humano percibe la realidad que lo rodea. La programación orientada a objetos trabaja con unidades lógicas, denominadas objetos, que se interrelacionan entre sí. Estos objetos contienen información y son los responsables de ejecutar las funciones necesarias para resolver los problemas.

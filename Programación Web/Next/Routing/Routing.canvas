@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"file","file":"Programación Web/Next/Routing/Páginas y layouts.md","id":"86d7f191e355543a","x":160,"y":-1200,"width":400,"height":400,"color":"2"},
+		{"type":"file","file":"Programación Web/Next/Routing/Routing.md","id":"e2e5b8a7ca16703c","x":-960,"y":-1200,"width":400,"height":400,"color":"2"},
+		{"type":"file","file":"Programación Web/Next/Routing/Definiendo rutas.md","id":"32fd4d3ba69b11e6","x":-400,"y":-1200,"width":400,"height":400,"color":"2"},
+		{"type":"file","file":"Programación Web/Next/Routing/Grupos de rutas.md","id":"93455cd8402cd58f","x":-400,"y":-640,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"Programación Web/Next/Routing/Rutas dinámicas.md","id":"dc1af43304fc9d20","x":160,"y":-640,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"Programación Web/Next/Routing/Enlaces y navegación.md","id":"07bcc4c1b72e7a0d","x":-960,"y":-640,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"Programación Web/Next/Routing/Carga de la interfaz de usuario y streaming.md","id":"73c50f63031b144a","x":-960,"y":-80,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Programación Web/Next/Routing/Tratamiento de errores.md","id":"73f6cd334218f0d8","x":-400,"y":-80,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Programación Web/Next/Routing/Rutas paralelas.md","id":"2d774f63d5a93590","x":160,"y":-80,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Programación Web/Next/Routing/Rutas de interceptación.md","id":"3c217d45fc06e53e","x":-960,"y":480,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Programación Web/Next/Routing/Rutas handlers.md","id":"8d1bbb45899756b1","x":-400,"y":480,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Programación Web/Next/Routing/Middleware.md","id":"7120a6f6e602f217","x":160,"y":480,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Programación Web/Next/Routing/Organización de proyectos y colocación de archivos.md","id":"4f5dc9e1c75db479","x":720,"y":480,"width":400,"height":400,"color":"5"},
+		{"id":"251eafd3c44415f9","x":-440,"y":-1480,"width":480,"height":80,"color":"1","type":"text","text":"# Enrutamiento en NEXTJS"}
+	],
+	"edges":[
+		{"id":"47b31bf39049dbae","fromNode":"e2e5b8a7ca16703c","fromSide":"right","toNode":"32fd4d3ba69b11e6","toSide":"left","color":"2"},
+		{"id":"d3550325157e6413","fromNode":"32fd4d3ba69b11e6","fromSide":"right","toNode":"86d7f191e355543a","toSide":"left","color":"2"},
+		{"id":"d36ea59680a0f1da","fromNode":"86d7f191e355543a","fromSide":"bottom","toNode":"07bcc4c1b72e7a0d","toSide":"top","color":"3"},
+		{"id":"bb4afce4bd1cc583","fromNode":"07bcc4c1b72e7a0d","fromSide":"right","toNode":"93455cd8402cd58f","toSide":"left","color":"3"},
+		{"id":"94492faf7e024143","fromNode":"93455cd8402cd58f","fromSide":"right","toNode":"dc1af43304fc9d20","toSide":"left","color":"3"},
+		{"id":"3a96df7f0255971c","fromNode":"dc1af43304fc9d20","fromSide":"bottom","toNode":"73c50f63031b144a","toSide":"top","color":"4"},
+		{"id":"1a5950227874de61","fromNode":"73c50f63031b144a","fromSide":"right","toNode":"73f6cd334218f0d8","toSide":"left","color":"4"},
+		{"id":"49f683825c1f7f47","fromNode":"73f6cd334218f0d8","fromSide":"right","toNode":"2d774f63d5a93590","toSide":"left","color":"4"},
+		{"id":"2751754c8fc2fc91","fromNode":"2d774f63d5a93590","fromSide":"bottom","toNode":"3c217d45fc06e53e","toSide":"top","color":"5"},
+		{"id":"5105fdb0e0de4c30","fromNode":"3c217d45fc06e53e","fromSide":"right","toNode":"8d1bbb45899756b1","toSide":"left","color":"5"},
+		{"id":"b093fecac07a09e0","fromNode":"8d1bbb45899756b1","fromSide":"right","toNode":"7120a6f6e602f217","toSide":"left","color":"5"},
+		{"id":"6e240b289549b83a","fromNode":"7120a6f6e602f217","fromSide":"right","toNode":"4f5dc9e1c75db479","toSide":"left","color":"5"},
+		{"id":"efb0eada689e8588","fromNode":"251eafd3c44415f9","fromSide":"bottom","toNode":"e2e5b8a7ca16703c","toSide":"top","color":"1"}
+	]
+}

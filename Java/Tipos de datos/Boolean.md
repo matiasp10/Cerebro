@@ -1,0 +1,1 @@
+El tipo **boolean** representa valores de verdadero/falso. Java define los valores verdadero y falso empleando las palabras reservadas **true y false**. Por lo tanto, una variable o expresión de tipo **boolean** será uno de estos dos valores.

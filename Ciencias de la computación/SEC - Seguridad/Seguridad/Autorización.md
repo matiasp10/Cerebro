@@ -1,0 +1,7 @@
+A diferencia de la autenticación, la autorización se refiere al proceso de verificar a qué recursos pueden acceder las entidades (usuarios o dispositivos), o qué acciones pueden realizar, es decir, sus derechos de acceso.
+
+Para ver un ejemplo concreto, imagine una situación en la que usted compra una entrada para un espectáculo. En este caso, la mayoría de las veces, el establecimiento no se interesará por su identidad (es decir, por quién es usted). Lo que les importa es si usted está autorizado o no a asistir al espectáculo. Para demostrar que tiene derecho a estar allí, en lugar de utilizar un documento de identidad o un pasaporte, utilizaría una entrada.
+
+A menudo, la entrada que le autoriza a asistir al espectáculo no contiene ninguna información sobre su identidad. Sin embargo, aunque incluya información sobre su identidad, no es lo que se verifica en el proceso de autorización.
+
+En las aplicaciones de software basadas en Internet, un enfoque común es utilizar artefactos llamados **tokens** para manejar la autorización. Normalmente, una vez que un usuario ha iniciado sesión, las aplicaciones empiezan a preocuparse por lo que puede hacer. En este escenario, esto lleva a la creación de un token que lleva detalles de autorización basados en la identidad del usuario. El sistema utiliza este token de autorización para tomar decisiones de autorización; esto concede o impide una solicitud de acceso a los recursos.

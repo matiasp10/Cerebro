@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"8bb46e0d5e60a2e9","x":4000,"y":-800,"width":2240,"height":1240,"type":"group","label":"Algorithms"},
+		{"id":"063c7a8f8c02be36","x":6400,"y":-800,"width":2000,"height":1200,"type":"group","label":"Teoria de la computacion"},
+		{"id":"3e54924f77cfcbbd","type":"group","x":160,"y":-800,"width":1920,"height":1240,"label":"Computer Science 2"},
+		{"id":"966cc29b2fb7b9e2","type":"group","x":-1960,"y":-800,"width":1800,"height":1240,"label":"Computer Science 1"},
+		{"id":"379eae0dc4c62f8e","x":2200,"y":-800,"width":1758,"height":1240,"type":"group","label":"Math and Statistical Foundations"},
+		{"id":"bd90cda9f559445e","x":4000,"y":1760,"width":2240,"height":973,"type":"group","label":"Computer Architecture"},
+		{"id":"35c5c31439bbe37d","x":4000,"y":640,"width":2240,"height":960,"type":"group","label":"Programming Languages"},
+		{"id":"f92b7ea9eadfeba6","x":4000,"y":2880,"width":2240,"height":960,"type":"group","label":"Security"},
+		{"id":"f06e1b332a6565bb","x":6400,"y":1760,"width":2000,"height":973,"type":"group","label":"Parallel and Distributed Computing"},
+		{"id":"09063828ecd68515","x":6400,"y":640,"width":2000,"height":960,"type":"group","label":"Software Engineering"},
+		{"id":"312ccd30909c7b2d","x":2200,"y":1760,"width":1758,"height":973,"type":"group","label":"Operating Systems"},
+		{"id":"2d1522f1a1f83859","x":2200,"y":640,"width":1758,"height":960,"type":"group","label":"Introduction to Systems"},
+		{"id":"27a608e11e314fbe","x":2200,"y":2880,"width":1758,"height":960,"type":"group","label":"Networking"},
+		{"id":"a858621488e2c6a3","type":"file","file":"Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF-Fundamentals.md","x":-1880,"y":-720,"width":480,"height":400},
+		{"id":"d58a72b2ad471d0a","type":"file","file":"Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF-Fundamental Data Structures.md","x":-880,"y":-720,"width":520,"height":400},
+		{"id":"48f20641bb135c80","type":"file","file":"Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF-Algorithms.md","x":-880,"y":-40,"width":520,"height":400},
+		{"id":"d03cb7ec103e735b","type":"file","file":"Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF-Software Development Practices.md","x":-1880,"y":-40,"width":480,"height":400},
+		{"id":"4cbc4c87319c4040","type":"file","file":"Ciencias de la computación/AL - Algorithmic Foundation/AL-Foundational Data Structures and Algorithms.md","x":280,"y":-720,"width":720,"height":400},
+		{"id":"1e32b0f67ae01e08","type":"file","file":"Ciencias de la computación/AL - Algorithmic Foundation/AL-Algorithmics Strategies.md","x":1340,"y":-720,"width":640,"height":400},
+		{"id":"4064a9bc290bf694","x":1340,"y":-120,"width":640,"height":400,"type":"file","file":"Ciencias de la computación/DM - Data Management/DM-Data.md"},
+		{"id":"538b25b0df955f19","x":280,"y":-120,"width":720,"height":400,"type":"file","file":"Ciencias de la computación/DM - Data Management/DM-Core Database System Concepts.md"},
+		{"id":"278035b8bde63fe7","type":"file","file":"Ciencias de la computación/AL - Algorithmic Foundation/AL-Complexity.md","x":6480,"y":-720,"width":640,"height":400},
+		{"id":"4ff8873279a44134","type":"file","file":"Ciencias de la computación/AL - Algorithmic Foundation/AL-Computational Models and formal lenguages.md","x":7560,"y":-720,"width":640,"height":400}
+	],
+	"edges":[
+		{"id":"50418b620470edf0","fromNode":"a858621488e2c6a3","fromSide":"right","toNode":"d58a72b2ad471d0a","toSide":"left"},
+		{"id":"1469a08f65020373","fromNode":"d58a72b2ad471d0a","fromSide":"bottom","toNode":"48f20641bb135c80","toSide":"top"},
+		{"id":"1eb4200bd9e7fc1a","fromNode":"48f20641bb135c80","fromSide":"left","toNode":"d03cb7ec103e735b","toSide":"right"},
+		{"id":"c821298fbc5f368a","fromNode":"48f20641bb135c80","fromSide":"right","toNode":"4cbc4c87319c4040","toSide":"left"},
+		{"id":"34c80762719fd230","fromNode":"d58a72b2ad471d0a","fromSide":"right","toNode":"4cbc4c87319c4040","toSide":"left"},
+		{"id":"26aca1786fc4c5d0","fromNode":"4cbc4c87319c4040","fromSide":"right","toNode":"1e32b0f67ae01e08","toSide":"left"},
+		{"id":"f45de630b25fdcb9","fromNode":"1e32b0f67ae01e08","fromSide":"left","toNode":"278035b8bde63fe7","toSide":"left"},
+		{"id":"cdc2976a5d6f677c","fromNode":"278035b8bde63fe7","fromSide":"right","toNode":"4ff8873279a44134","toSide":"left"},
+		{"id":"f61bdd4b4f546d68","fromNode":"1e32b0f67ae01e08","fromSide":"bottom","toNode":"4064a9bc290bf694","toSide":"top"},
+		{"id":"1c35e79854720609","fromNode":"4064a9bc290bf694","fromSide":"left","toNode":"538b25b0df955f19","toSide":"right"},
+		{"id":"3bbee175707b6b8d","fromNode":"966cc29b2fb7b9e2","fromSide":"right","toNode":"3e54924f77cfcbbd","toSide":"left"}
+	]
+}

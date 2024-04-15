@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8f8182b66a6c65e8","x":234,"y":-1666,"width":553,"height":893,"type":"text","text":"## Alphabet:\n![[Pasted image 20221226105424.png]]"},
+		{"id":"c9d6442d7e9dd5f9","x":-644,"y":-167,"width":400,"height":400,"type":"file","file":"Ingles/Ingles.md"},
+		{"id":"d70084125d11cde4","x":787,"y":-1666,"width":1050,"height":893,"type":"text","text":"## Numbers\n![[Pasted image 20221226111446.png]]"}
+	],
+	"edges":[
+		{"id":"d8cc99ca7aa9c83b","fromNode":"c9d6442d7e9dd5f9","fromSide":"right","toNode":"8f8182b66a6c65e8","toSide":"left"},
+		{"id":"89deecac1d5c3eb0","fromNode":"c9d6442d7e9dd5f9","fromSide":"right","toNode":"d70084125d11cde4","toSide":"left"}
+	]
+}

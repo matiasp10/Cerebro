@@ -1,0 +1,2 @@
+- [[Errores personalizados]]
+- [[Programación Web/JavaScript/Errores/Try...Catch]]

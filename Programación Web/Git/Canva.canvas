@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"6b0b1b8c4aa08e47","x":42,"y":-1789,"width":743,"height":988,"color":"1","type":"file","file":"Programación Web/Git/Conceptos Git.md"},
+		{"id":"ad7366a83f0c3b20","x":42,"y":-739,"width":743,"height":735,"color":"4","type":"file","file":"Programación Web/Git/Comandos Git.md"},
+		{"id":"7d06102767a9fd3c","x":-1142,"y":-801,"width":788,"height":688,"color":"3","type":"file","file":"Programación Web/Git/Git.md"},
+		{"id":"e43460bea266de71","x":42,"y":39,"width":743,"height":770,"color":"5","type":"file","file":"Programación Web/Git/Opciones Git.md"},
+		{"id":"5da65a40d4f80371","x":1165,"y":-1789,"width":831,"height":399,"type":"file","file":"Programación Web/Git/Tipos de archivos.md"},
+		{"id":"6eddc00804859372","x":1165,"y":-1295,"width":831,"height":494,"type":"file","file":"Programación Web/Git/Platzi git.md"}
+	],
+	"edges":[
+		{"id":"78ec6ab873e496aa","fromNode":"7d06102767a9fd3c","fromSide":"right","toNode":"6b0b1b8c4aa08e47","toSide":"left","color":"1"},
+		{"id":"4942b51001b83b8c","fromNode":"7d06102767a9fd3c","fromSide":"right","toNode":"ad7366a83f0c3b20","toSide":"left","color":"1"},
+		{"id":"941d491cb0140cac","fromNode":"7d06102767a9fd3c","fromSide":"right","toNode":"e43460bea266de71","toSide":"left","color":"1"}
+	]
+}

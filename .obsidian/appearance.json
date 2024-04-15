@@ -1,0 +1,18 @@
+{
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code",
+  "accentColor": "#ff0000",
+  "theme": "obsidian",
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "baseFontSize": 20,
+  "monospaceFontFamily": "Cascadia Mono PL,Fira Code",
+  "enabledCssSnippets": [
+    "titles",
+    "Block quote inline",
+    "main",
+    "img-grids-floats"
+  ]
+}

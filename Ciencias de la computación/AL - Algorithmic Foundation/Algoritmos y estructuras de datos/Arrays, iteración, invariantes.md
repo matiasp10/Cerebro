@@ -1,0 +1,2 @@
+En última instancia, los datos se almacenan en los ordenadores como _patrones de bits_, aunque hoy en día la mayoría de los lenguajes de programación trabajan con objetos de nivel superior, como caracteres, números enteros y números de punto flotante. Generalmente, necesitamos construir algoritmos que manipulen colecciones de dichos objetos, por lo que necesitamos procedimientos para almacenarlos y procesarlos secuencialmente.
+

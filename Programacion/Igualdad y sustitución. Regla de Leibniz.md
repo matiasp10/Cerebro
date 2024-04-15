@@ -1,0 +1,21 @@
+Hasta ahora hemos hablado del significado de evaluar una expresión aritmética $E$ en un estado. Supongamos que consideramos una expresión un poco más compleja en donde participa la igualdad, como por ejemplo $E = F$, en este caso evaluar la expresión en un estado arroja como resultado verdadero (true) si las expresiones $E$ y $F$ tienen el mismo valor y falso (false) si tienen distintos valores Vamos a ver algunos ejemplos, en donde utilizaremos la relación de igualdad entre expresiones aritméticas.
+
+> [!example]
+> Si $E = 3 · x − 1$ y $G = x + 1$, entonces la expresión $E = G$ devuelve true si el estado de $x$ es 1 y devuelve false en cualquier otro estado de la variable $x$.
+
+> [!example]
+> Si $E = x · x − 1$ y $G = (x + 1) · (x − 1)$ la expresión $E = G$ devuelve el valor true en cualquier estado de la variable x.
+
+También es posible construir expresiones utilizando otros operadores relacionales entre expresiones aritméticas, como por ejemplo
+
+> [!example]
+> Si $E = x − 2$ y $G = x − 1$ la expresión $E < G$ devuelve el valor true en cualquier estado de sus variables.
+
+Una expresión es verdadera si su evaluación en cualquier estado posible de sus variables produce el valor true. Las expresiones de los ejemplos (Ejemplo 2) y (Ejemplo 3) son verdaderas, mientras que la del ejemplo (Ejemplo 1) es falsa. Ahora, supongamos que queremos determinar si dos expresiones aritméticas $E$ y $F$ son iguales. De acuerdo con lo visto, esto equivale a determinar si la expresión $E = F$ es verdadera, lo cual puede realizarse evaluando el valor de verdad de la expresión $E = F$ en todos sus estados posibles, tarea que puede resultar tediosa y hasta imposible en casos en que las variables puedan asumir infinitos estados. Una forma alternativa de determinar la igualdad entre dos expresiones es utilizar un conjunto de reglas para la relación de igualdad (estrategia ampliamente utilizada en los cursos de Álgebra y Análisis). Por ejemplo, sabemos que $x = y$ es lo mismo que $y = x$, sin importar el valor de las variables $x$ e $y$. Es más, una adecuada colección de esta reglas puede pensarse como una definición de igualdad, suponiendo válido que dos expresiones son iguales en cualquier estado si y sólo si una de ellas puede ser transformada en la otra mediante estas leyes. Vamos a dar ahora cuatro leyes que caracterizan a la relación de igualdad. Las dos primeras son expresiones que postulamos como teoremas, es decir son verdaderas en cualquier estado
+$$Reflexividad : x = x$$
+$$ Simetria : (x = y) = (y = x)$$
+La tercera regla, transitividad, está dada como regla de inferencia
+$$ T ransitividad : {X = Y, Y = Z\over X = Z} $$
+Utilizaremos la regla ([[Sustitución, Igualdad y Asignación|Definicion 4]]) del siguiente modo: de $X = Y$ e $Y = Z$ concluimos que $X = Z$. Por ejemplo de $x + y = w + 1$ y $w + 1 = 7$ concluimos por la regla ([[Sustitución, Igualdad y Asignación|Definicion 4]]) que $x + y = 7$. En el Capítulo 0, fue esta regla la que nos permitió afirmar que las expresiones $e = m · c^2$ y $m = e/c^2$ son iguales. Una cuarta regla para la relación de igualdad fue establecida por Gottfried Leibniz hace unos 350 años. En términos actuales la Regla de Leibniz puede expresarse así: Dos expresiones son iguales en todos los estados si y sólo si al reemplazar una de ellas por la otra en cualquier expresión E, el valor de ésta no cambia. Una consecuencia de esta ley puede formularse como regla de inferencia del siguiente modo:
+$$Leibniz : {X = Y \over E [z := X] = E [z := Y ]}$$
+Observemos que se utilizó la variable $z$ en la formulación de la regla anterior, pues la sustitución está definida para el reemplazo de variables y no para el reemplazo de una expresión. En el lado izquierdo de la igualdad que aparece en la conclusión, $z$ es reemplazada por $X$ mientras que en lado derecho $z$ es reemplazada por $Y$ , así este uso de la variable $z$ permite el reemplazo de una instancia de $X$ en la expresión $E [z := X]$ por $Y$ . Veamos un ejemplo de la aplicación de la regla de Leibniz, supongamos que $b + 3 = c + 5$ es un teorema, podemos concluir que $d + b + 3 = d + c + 5$ es un teorema usando la regla ([[Sustitución, Igualdad y Asignación|Definicion 5]]), si llamamos $X : b + 3$, $Y : c + 5$, $E : d + z$ y $z : z$.
