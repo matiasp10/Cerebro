@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Find the capitals",
-      "path": "Ejercicios JavaScript/Find the capitals.md"
+      "basename": "Tecnologías principales de internet",
+      "path": "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Tecnologías principales de internet.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Round up to the next multiple of 5",
+      "path": "Ejercicios JavaScript/Round up to the next multiple of 5.md"
+    },
+    {
+      "basename": "Isograms",
+      "path": "Ejercicios JavaScript/Isograms.md"
+    },
+    {
+      "basename": "Sum of Minimums!",
+      "path": "Ejercicios JavaScript/Sum of Minimums!.md"
+    },
+    {
+      "basename": "Holiday VIII - Duty Free",
+      "path": "Ejercicios JavaScript/Holiday VIII - Duty Free.md"
+    },
+    {
+      "basename": "Maximum Length Difference",
+      "path": "Ejercicios JavaScript/Maximum Length Difference.md"
+    },
+    {
+      "basename": "Summing a number's digits",
+      "path": "Ejercicios JavaScript/Summing a number's digits.md"
+    },
+    {
+      "basename": "Find the capitals",
+      "path": "Ejercicios JavaScript/Find the capitals.md"
+    },
+    {
+      "basename": "No zeros for heros",
+      "path": "Ejercicios JavaScript/No zeros for heros.md"
+    },
+    {
+      "basename": "Form The Minimum",
+      "path": "Ejercicios JavaScript/Form The Minimum.md"
     },
     {
       "basename": "Flatten and sort an array",
@@ -163,42 +199,6 @@
     {
       "basename": "Introducción ",
       "path": "Ciencias de la computación/Introducción .md"
-    },
-    {
-      "basename": "SDF-Fundamentals",
-      "path": "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF-Fundamentals.md"
-    },
-    {
-      "basename": "SDF - Fundamentos de desarrollo de software",
-      "path": "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF - Fundamentos de desarrollo de software.md"
-    },
-    {
-      "basename": "AL - Algorithmic Foundations",
-      "path": "Ciencias de la computación/AL - Algorithmic Foundation/AL - Algorithmic Foundations.md"
-    },
-    {
-      "basename": "AL-Algorithmics Strategies",
-      "path": "Ciencias de la computación/AL - Algorithmic Foundation/AL-Algorithmics Strategies.md"
-    },
-    {
-      "basename": "CS2023",
-      "path": "Ciencias de la computación/CS2023.canvas"
-    },
-    {
-      "basename": "Webpack",
-      "path": "Programación Web/Webpack/Webpack.md"
-    },
-    {
-      "basename": "Notación Big O",
-      "path": "Ciencias de la computación/AL - Algorithmic Foundation/Algoritmos y estructuras de datos/Notación Big O.md"
-    },
-    {
-      "basename": "AL-Computational Models and formal lenguages",
-      "path": "Ciencias de la computación/AL - Algorithmic Foundation/AL-Computational Models and formal lenguages.md"
-    },
-    {
-      "basename": "Complejidad temporal",
-      "path": "Ciencias de la computación/AL - Algorithmic Foundation/Algoritmos y estructuras de datos/Complejidad temporal.md"
     }
   ],
   "omittedPaths": [],
