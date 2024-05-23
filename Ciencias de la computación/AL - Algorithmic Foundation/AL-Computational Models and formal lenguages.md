@@ -61,8 +61,7 @@
 4. Explain the difference between Regular Expressions (Type-3 acceptors) and Re-Ex pattern matchers (Type-2 acceptors) used in programming languages.
 5. For each formal language/grammar in this unit
 	a. Articulate its definition comparing its characteristics with the others in this unit,
-	b. Give an example of inputs that can and cannot be accepted by the
-	language/grammar.
+	b. Give an example of inputs that can and cannot be accepted by the language/grammar.
 6. Describe a univTuring Machine.
 7. Explain how decidability and computability for various automata are related.
 8. Explain the Halting problem, why it has no algorithmic solution, and its significance for realworld algorithmic computation.

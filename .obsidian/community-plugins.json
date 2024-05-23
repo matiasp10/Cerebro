@@ -25,12 +25,15 @@
   "obsidian-style-settings",
   "size-history",
   "math-booster",
-  "mathlinks",
   "code-styler",
   "obsidian-spaced-repetition",
   "obsidian-icon-folder",
   "latex-algorithms",
   "templater-obsidian",
   "drawio-obsidian",
-  "quick-latex"
+  "quick-latex",
+  "mathlinks",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-list-callouts",
+  "obsidian-git"
 ]

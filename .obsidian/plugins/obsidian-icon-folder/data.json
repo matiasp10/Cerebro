@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoPath",
       "TiGrowth",
       "TiBook",
       "FabSpaceAwesome",
-      "SiPlatzi",
-      "LiSwords"
+      "SiPlatzi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,7 +29,8 @@
     "iconsInLinksEnabled": true,
     "debugMode": false,
     "iconInFrontmatterFieldName": "icon",
-    "iconColorInFrontmatterFieldName": "iconColor"
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconInTitlePosition": "above"
   },
   "Java": "FabJava",
   "Python": "SiPython",
@@ -41,5 +42,6 @@
   "Ejercicios JavaScript": "LiSwords",
   "Platzi": "SiPlatzi",
   "Ciencias de la computación": "TiBook",
-  "Cursos": "TiGrowth"
+  "Cursos": "TiGrowth",
+  "Mi carrera": "CoPath"
 }

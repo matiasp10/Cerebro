@@ -13,7 +13,7 @@ Con el primer enfoque, el curso introductorio de programación puede incluir lo 
 Declaración de habilidades: Un estudiante que complete este curso debe poder:
 
 - Diseñar, codificar, probar y depurar un programa de tamaño modesto que utilice eficazmente la abstracción funcional.
-- Seleccionar y usar la estructura de datos proporcionada por el lenguaje adecuada para un problema dado (como: matrices, tuplas/registros/estructuras, listas, pilas, colas y tipos de datos asociativos como conjuntos, diccionarios/mapas).
+- Seleccionar y usar la estructura de datos proporcionada por el lenguaje adecuada para un problema dado (como: matrices, tuplas/registros/estructuras, listas, pilas, colas y tipos de datos asociativos como conjuntos, diccionarios/mapas).
 - Diseñar, codificar, probar y depurar un programa de tamaño modesto orientado a objetos utilizando clases y objetos.
 - Diseñar, codificar, probar y depurar un programa de tamaño modesto que utilice bibliotecas y marcos proporcionados por el lenguaje (incluido el acceso a datos de la web a través de API).
 - Leer y explicar el código dado, incluido el seguimiento del flujo de control durante la ejecución.

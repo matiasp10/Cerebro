@@ -24,24 +24,19 @@ ___
 
 
 Programming Language Concepts (Introduction) Course to include the following:
+
 ● FPL-OOP: Object-Oriented Programming 5 CS Core hours
 1 KA Core hours
 ● FPL-Functional: Functional Programming 4 CS Core hours
 3 KA Core hours
 ● FPL-Logic: Logic Programming 3 KA Core hours
-● FPL-Compiled-Interpret: Compiled vs Interpreted Programming
- 1 CS Core hour
+
+● FPL-Compiled-Interpret: Compiled vs Interpreted Programming 1 CS Core hour
 ● FPL-Scripting: Scripting 2 CS Core hours
-● FPL-Event-Driven: Event-Driven and Reactive Programming
-2 CS Core hours
-2 KA Core hours
-● FPL-Parallel: Parallel and Distributed Computing 3 CS Core hours
-2 KA Core hours
-● FPL-Types: Type Systems 3 CS Core hours
-4 KA Core hours
-26
-● FPL-Systems: Systems Execution and Memory Model
- 3 CS Core hours
+● FPL-Event-Driven: Event-Driven and Reactive Programming 2 CS Core hours 2 KA Core hours
+● FPL-Parallel: Parallel and Distributed Computing 3 CS Core hours 2 KA Core hours
+● FPL-Types: Type Systems 3 CS Core hours 4 KA Core hours
+● FPL-Systems: Systems Execution and Memory Model 3 CS Core hours
 ● FPL-Translation: Language Translation and Execution 2 KA Core hours
 ● FPL-Abstraction: Program Abstraction and Representation 3 KA Core hours
 ● FPL-Quantum: Quantum Computing 2 CS Core hours
@@ -65,69 +60,66 @@ Programming Language Implementation (Advanced) Course to include the following:
 [[FPL-OOP]]
 ### FPL-Functional: Functional Programming
 CS Core:
+
 1. Lambda expressions and evaluation (See also: AL-Models, FPL-Formalism)
+
 a. Variable binding and scope rules (See also: SDF-Fundamentals)
 b. Parameter passing (See also: SDF-Fundamentals)
 c. Nested lambda expressions and reduction order
+
 2. Effect-free programming
+
 a. Function calls have no side effects, facilitating compositional reasoning
 b. Immutable variables and data copying vs. reduction
 c. Use of recursion vs. loops vs. pipelining (map/reduce)
-7
+
 3. Processing structured data (e.g., trees) via functions with cases for each data variant
-a. Functions defined over compound data in terms of functions applied to the
-constituent pieces
+
+a. Functions defined over compound data in terms of functions applied to the constituent pieces
 b. Persistent data structures
+
 4. Using higher-order functions (taking, returning, and storing functions)
 
 KA Core:
+
 5. Function closures (functions using variables in the enclosing lexical environment)
-a. Basic meaning and definition - creating closures at run-time by capturing the
-environment
-b. Canonical idioms: call-backs, arguments to iterators, reusable code via function
-arguments
+
+a. Basic meaning and definition - creating closures at run-time by capturing the environment
+b. Canonical idioms: call-backs, arguments to iterators, reusable code via function arguments
 c. Using a closure to encapsulate data in its environment
 d. Lazy versus eager evaluation
 
 Non-Core:
 6. Graph reduction machine and call-by-need
 7. Implementing lazy evaluation
-8. Integration with logic programming paradigm using concepts such as equational logic,
-narrowing, residuation and semantic unification (See also: FPL-Logic)
+8. Integration with logic programming paradigm using concepts such as equational logic, narrowing, residuation and semantic unification (See also: FPL-Logic)
 9. Integration with other programming paradigms such as imperative and objectoriented
 
 Illustrative learning outcomes:
 CS Core:
-1. Develop basic algorithms that avoid assigning to mutable state or considering
-reference equality.
+
+1. Develop basic algorithms that avoid assigning to mutable state or considering reference equality.
 2. Develop useful functions that take and return other functions.
 3. Compare and contrast:
+
 a. the procedural/functional approach-defining a function for each operation with the
 function body providing a case for each data variant, and
-b. the object-oriented approach-defining a class for each data variant with the class
-definition providing a method for each operation.
-Understand both as defining a matrix of operations and variants. (See also: FPLOOP)
+b. the object-oriented approach-defining a class for each data variant with the class definition providing a method for each operation. Understand both as defining a matrix of operations and variants. (See also: FPLOOP)
 
 KA Core:
-4. Explain a simple example of lambda expression being implemented using a virtual
-machine, such as a SECD machine, showing storage and reclaim of the environment.
+
+4. Explain a simple example of lambda expression being implemented using a virtual machine, such as a SECD machine, showing storage and reclaim of the environment.
 5. Correctly interpret variables and lexical scope in a program using function closures.
 6. Use functional encapsulation mechanisms such as closures and modular interfaces.
 7. Compare and contrast stateful vs stateless execution.
-8
-8. Define and use iterators and other operations on aggregates, including operations
-that take functions as arguments, in multiple programming languages, selecting the
-most natural idioms for each language. (See also: FPL-OOP)
+8. Define and use iterators and other operations on aggregates, including operations that take functions as arguments, in multiple programming languages, selecting the most natural idioms for each language. (See also: FPL-OOP)
 
 Non-Core:
+
 9. Illustrate graph reduction using a λ-expression using a shared subexpression
-10. Illustrate the execution of a simple nested λ-expression using an abstract machine,
-such as an ABC machine.
-11. Illustrate narrowing, residuation and semantic unification using simple illustrative
-examples.
-12. Illustrate the concurrency constructs using simple programming examples of known
-concepts such as a buffer being read and written concurrently or sequentially. (See
-also: FPL-OOP)
+10. Illustrate the execution of a simple nested λ-expression using an abstract machine, such as an ABC machine.
+11. Illustrate narrowing, residuation and semantic unification using simple illustrative examples.
+12. Illustrate the concurrency constructs using simple programming examples of known concepts such as a buffer being read and written concurrently or sequentially. (See also: FPL-OOP)
 
 ### FPL-Logic: Logic Programming
 KA Core:
@@ -307,9 +299,7 @@ KA Core:
 7. Type equivalence: structural vs name equivalence
 8. Complementary benefits of static and dynamic typing
 a. Errors early vs. errors late/avoided
-b. Enforce invariants during code development and code maintenance vs. postpone
-typing decisions while prototyping and conveniently allow flexible coding patterns
-such as heterogeneous collections
+b. Enforce invariants during code development and code maintenance vs. postpone typing decisions while prototyping and conveniently allow flexible coding patterns such as heterogeneous collections
 c. Typing rules
 i. Rules for function, product, and sum types
 d. Avoid misuse of code vs. allow more code reuse
@@ -318,8 +308,7 @@ f. Relationship to static analysis
 g. Decidability
 
 Non-Core:
-9. Compositional type constructors, such as product types (for aggregates), sum types
-(for unions), function types, quantified types, and recursive types
+9. Compositional type constructors, such as product types (for aggregates), sum types (for unions), function types, quantified types, and recursive types
 10. Type checking
 11. Subtyping (See also: FPL-OOP)
 a. Subtype polymorphism; implicit upcasts in typed languages
@@ -328,14 +317,12 @@ c. Relationship between subtyping and inheritance
 12. Type safety as preservation plus progress
 13. Type inference
 14. Static overloading
-15. Propositions as types (implication as a function, conjunction as a product, disjunction
-as a sum) (See also: FPL-Formalism)
+15. Propositions as types (implication as a function, conjunction as a product, disjunction as a sum) (See also: FPL-Formalism)
 16. Dependent types (universal quantification as dependent function, existential quantification as dependent product) (See also: FPL-Formalism)
 Illustrative learning outcomes:
 CS Core:
 1. Describe, for both a primitive and a compound type, the values that have that type.
-2. Describe, for a language with a static type system, the operations that are forbidden
-statically, such as passing the wrong type of value to a function or method.
+2. Describe, for a language with a static type system, the operations that are forbidden statically, such as passing the wrong type of value to a function or method.
 3. Describe examples of program errors detected by a type system.
 4. Identify program properties, for multiple programming languages, that are checked
 statically and program properties that are checked dynamically.
@@ -347,24 +334,18 @@ KA Core:
 14
 7. Explain how typing rules define the set of operations that are legal for a type.
 8. List the type rules governing the use of a particular compound type.
-9. Explain why undecidability requires type systems to conservatively approximate
-program behavior.
-10. Define and use program pieces (such as functions, classes, methods) that use
-generic types, including for collections.
+9. Explain why undecidability requires type systems to conservatively approximate program behavior.
+10. Define and use program pieces (such as functions, classes, methods) that use generic types, including for collections.
 11. Discuss the differences among generics, subtyping, and overloading.
-12. Explain multiple benefits and limitations of static typing in writing, maintaining, and
-debugging software.
+12. Explain multiple benefits and limitations of static typing in writing, maintaining, and debugging software.
 
 Non-Core:
 13. Define a type system precisely and compositionally.
-14. For various foundational type constructors, identify the values they describe and the
-invariants they enforce.
+14. For various foundational type constructors, identify the values they describe and the invariants they enforce.
 15. Precisely describe the invariants preserved by a sound type system.
-16. Prove type safety for a simple language in terms of preservation and progress
-theorems.
+16. Prove type safety for a simple language in terms of preservation and progress theorems.
 17. Implement a unification-based type-inference algorithm for a simple language.
-18. Explain how static overloading and associated resolution algorithms influence the
-dynamic behavior of programs.
+18. Explain how static overloading and associated resolution algorithms influence the dynamic behavior of programs.
 ### FPL-Systems: Systems Execution and Memory Model
 CS Core:
 1. Data structures for translation, execution, translation and code mobility such as stack,
@@ -378,26 +359,17 @@ translation and execution
 a. Translating selection and iterative constructs to control-flow diagrams
 b. Translating control-flow diagrams to low level abstract code
 c. Implementing loops, recursion, and tail calls
-d. Translating function/procedure calls and return from calls, including different
-parameter passing mechanism using an abstract machine
+d. Translating function/procedure calls and return from calls, including different parameter passing mechanism using an abstract machine
 6. Memory management (See also: AR-Memory, OS-Memory)
-a. Low level allocation and accessing of high-level data structures such as basic
-data types, n-dimensional array, vector, record, and objects
-b. Return from procedure as automatic deallocation mechanism for local data
-elements in the stack
-15
-c. Manual memory management: allocating, de-allocating, and reusing heap
-memory
-d. Automated memory management: garbage collection as an automated technique
-using the notion of reachability
+a. Low level allocation and accessing of high-level data structures such as basic data types, n-dimensional array, vector, record, and objects
+b. Return from procedure as automatic deallocation mechanism for local data elements in the stack
+c. Manual memory management: allocating, de-allocating, and reusing heap memory
+d. Automated memory management: garbage collection as an automated technique using the notion of reachability
 7. Green computing (See also: SEP-Sustainability)
 Illustrative learning outcomes:
 CS Core:
-1. Diagram a low-level run-time representation of core language constructs, such as
-data abstractions and control abstractions.
-2. Explain how programming language implementations typically organize memory into
-global data, text, heap, and stack sections and how features such as recursion and
-memory management map to this memory model.
+1. Diagram a low-level run-time representation of core language constructs, such as data abstractions and control abstractions.
+2. Explain how programming language implementations typically organize memory into global data, text, heap, and stack sections and how features such as recursion and memory management map to this memory model.
 3. Investigate, identify, and fix memory leaks and dangling-pointer dereferences.
 ### FPL-Translation: Language Translation and Execution
 CS Core:
@@ -489,13 +461,12 @@ Non-Core:
 2. Scanning and parsing based on language specifications
 3. Lexical analysis using regular expressions
 4. Tokens and their use
-5. Parsing strategies including top-down (e.g., recursive descent, or LL) and bottom-up
-(e.g., LR or GLR) techniques.
-a. Lookahead tables and their application to parsing
+5. Parsing strategies including top-down (e.g., recursive descent, or LL) and bottom-up (e.g., LR or GLR) techniques.
+	1. Lookahead tables and their application to parsing
 6. Language theory
-a. Chomsky hierarchy (See also: AL-Models)
-b. Left-most/right-most derivation and ambiguity
-c. Grammar transformation
+	1. Chomsky hierarchy (See also: AL-Models)
+	2. Left-most/right-most derivation and ambiguity
+	3. Grammar transformation
 7. Parser error recovery mechanisms
 8. Generating scanners and parsers from declarative specifications
 
@@ -517,16 +488,14 @@ b. Define before use
 c. Annotation and extended static checking frameworks
 5. L-values/R-values (See also: SDF-Fundamentals)
 6. Call semantics
-7. Types of parameter-passing with simple illustrations and comparison: call by value,
-call by reference, call by value-result, call by name, call by need and their variations
+7. Types of parameter-passing with simple illustrations and comparison: call by value, call by reference, call by value-result, call by name, call by need and their variations
 8. Declarative specifications such as attribute grammars and their applications in
 handling limited context-base grammar
 
 Illustrative learning outcomes:
 Non-Core:
 1. Describe an abstract syntax tree for a small language
-2. Implement context-sensitive, source-level static analyses such as type-checkers or
-resolving identifiers to identify their binding occurrences.
+2. Implement context-sensitive, source-level static analyses such as type-checkers or resolving identifiers to identify their binding occurrences.
 3. Describe semantic analyses using an attribute grammar.
 
 ### FPL-Analysis: Program Analysis and Analyzers
@@ -637,9 +606,7 @@ Non-Core:
 8. String manipulation via pattern-matching (regular expressions)
 9. Dynamic code evaluation ("eval")
 10. Language support for checking assertions, invariants, and pre/post-conditions
-11. Domain specific languages, such as database languages, data science languages,
-embedded computing languages, synchronous languages, hardware interface
-languages
+11. Domain specific languages, such as database languages, data science languages, embedded computing languages, synchronous languages, hardware interface languages
 12. Massive parallel high performance computing models and languages
 
 Illustrative learning outcomes:
@@ -747,7 +714,7 @@ Illustrative Learning Outcomes:
 Non-core:
 1. Understand what constitutes good language design and apply that knowledge to
 evaluate a real programming language.
-FPL-Quantum: Quantum Computing
+### FPL-Quantum: Quantum Computing
 Non-core:
 1. Advantages and disadvantages of quantum computing
 2. Qubit and qubit state

@@ -1,6 +1,6 @@
 - Introducción
 - Conceptos básicos
-	-  Control de flujo
+	- Control de flujo
 	- Variables
 		- Reglas
 		- Tipos de datos 

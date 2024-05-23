@@ -9,7 +9,7 @@ Para introducir al tema de la programación lógica primero debemos definir **¿
 ### Sistemas de procesamiento de información y algoritmos
 
 - [[Sistemas de Procesamiento de Información]]
-- [[Clasificación de los lenguajes de programación]]
+- [[Ciencias de la computación/AL - Algorithmic Foundation/Programacion Logica/Clasificación de los lenguajes de programación]]
 - [[Traductores de lenguajes]]
 - [[Sistemas de información]]
 - [[Elementos del lenguaje]]

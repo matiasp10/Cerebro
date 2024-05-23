@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "149481911ac54432",
+        "id": "a740624608ab1d15",
         "type": "tabs",
         "children": [
           {
-            "id": "2d8d7c35226ee0a5",
+            "id": "069919d3ad6ec1cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios JavaScript/Round up to the next multiple of 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "891e2af42b3b338a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Tecnologías principales de internet.md",
+                "file": "Mi carrera/2024-05-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#5kyu",
+                "query": "syntax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Tecnologías principales de internet.md",
+                "file": "Mi carrera/2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,17 @@
             }
           },
           {
-            "id": "d50b595f1af3c3f4",
+            "id": "09a990ce7ddfd870",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mi carrera/2024-05-23.md"
+              }
+            }
+          },
+          {
+            "id": "dd1b26f30bb75120",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -167,17 +163,7 @@
             }
           },
           {
-            "id": "09a990ce7ddfd870",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Tecnologías principales de internet.md"
-              }
-            }
-          },
-          {
-            "id": "82bb090f12b6b02f",
+            "id": "986a0a7ba989da81",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -185,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,48 +185,53 @@
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "size-history:Vault size history": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Revisar Tarjetas": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-spaced-repetition:Revisar Tarjetas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "891e2af42b3b338a",
+  "active": "069919d3ad6ec1cf",
   "lastOpenFiles": [
-    "Home.md",
-    "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Tecnologías principales de internet.md",
-    "Ejercicios JavaScript/Round up to the next multiple of 5.md",
-    "Ejercicios JavaScript/Isograms.md",
-    "Ejercicios JavaScript/Sum of Minimums!.md",
-    "Ejercicios JavaScript/Holiday VIII - Duty Free.md",
-    "Ejercicios JavaScript/Maximum Length Difference.md",
-    "Ejercicios JavaScript/Summing a number's digits.md",
-    "Ejercicios JavaScript/Find the capitals.md",
-    "Ejercicios JavaScript/No zeros for heros.md",
-    "Ejercicios JavaScript/Form The Minimum.md",
-    "Ejercicios JavaScript/Flatten and sort an array.md",
-    "Ejercicios JavaScript/1's, 0's and wildcards.md",
+    "Proyectos.md",
+    "Mi carrera/2024-05-23.md",
+    "Mi carrera",
+    "Sin título.md",
+    "Programación funcional.md",
+    "Mi carrera.md",
     "Flowcharts (Diagramas de flujo).md",
-    "Cursos/Lenguajes de programación A/Semana 1.md",
-    "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end/Como funciona la web.md",
-    "Cursos/Lenguajes de programación A/S1 - Ausencia de mutación en ML.md",
+    "Home.md",
+    "Ejercicios JavaScript/Drink about.md",
+    "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF - Fundamentos de desarrollo de software.md",
+    "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/FPL-OOP.md",
+    "Ciencias de la computación/DM - Data Management/DM-Data.md",
+    "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/Programación imperativa.md",
+    "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/Paradigmas de programación.md",
+    "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF-Fundamentals.md",
+    "Ciencias de la computación/AL - Algorithmic Foundation/Algoritmos y estructuras de datos/Divide and conquer.md",
+    "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/FPL - Fundamentos de los lenguajes de programacion.md",
+    "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF-Software Development Practices.md",
+    "Ciencias de la computación/DM - Data Management/DM - Data Management.md",
+    "Ciencias de la computación/AL - Algorithmic Foundation/AL - Algorithmic Foundations.md",
+    "Ciencias de la computación/AL - Algorithmic Foundation/AL-Computational Models and formal lenguages.md",
+    "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Semántica axiomática.md",
+    "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Semántica axiomática - secuencias.md",
+    "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Semántica axiomática - declaración de asignación.md",
+    "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software/SDF-Fundamental Data Structures.md",
+    "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Métodos de reconocimiento y generación.md",
+    "Imagenes/Pasted image 20240424181859.png",
+    "Imagenes/Pasted image 20240422212632.png",
+    "Imagenes/Pasted image 20240422211658.png",
     "Cursos/Certificado profesional de Desarrollador de front-end de Meta/Introducción al desarrollo de front-end",
     "Cursos/Certificado profesional de Desarrollador de front-end de Meta",
-    "Cursos/Lenguajes de programación A/S1 - Expresiones ML y enlaces de variables.md",
-    "Cursos/Lenguajes de programación A/S1 -  Enlaces de variables en ML sintaxis, semántica y tipos.md",
     "Cursos/Introduction To Computer Science And Programming In Python",
-    "Cursos/How to Design Programs/Datos de tamaño fijo.md",
-    "Cursos/How to Design Programs/Aritmética.md",
-    "Cursos/How to Design Programs/La aritmética de los números.md",
     "Cursos/How to Design Programs",
-    "Cursos/Lenguajes de programación A/S1 - Opciones.md",
-    "Cursos/Lenguajes de programación A/S1 - Expresiones let en ML.md",
-    "Cursos/Lenguajes de programación A/S1 - Listas.md",
-    "Excalidraw/langprogfastvsunusable.md",
     "Cursos",
     "Flashcards",
     "Sin título 2.canvas",
@@ -249,7 +240,6 @@
     "Ciencias de la computación/SEC - Seguridad",
     "Programación Web",
     "Ciencias de la computación/MSF - Fundamentos Matemáticos y Estadísticos",
-    "Ciencias de la computación/SDF - Fundamentos en Desarrollo de Software",
     "Ciencias de la computación/CS2023.canvas",
     "Imagenes/Pasted image 20240301101807.png",
     "Imagenes/Pasted image 20240301101456.png",
@@ -258,9 +248,6 @@
     "Imagenes/Pasted image 20240120104057.png",
     "Imagenes/Pasted image 20240120103901.png",
     "Imagenes/Pasted image 20240120101625.png",
-    "Imagenes/Pasted image 20240111221536.png",
-    "Imagenes/Pasted image 20240111221102.png",
-    "Imagenes/Pasted image 20231205104246.png",
     "Ciencias de la computación/AL - Algorithmic Foundation/Algoritmos y estructuras de datos/Algoritmos y estructuras de datos.canvas",
     "Programación Web/TypeScript/Resumen.canvas",
     "Programación Web/JavaScript/Resumen.canvas",
