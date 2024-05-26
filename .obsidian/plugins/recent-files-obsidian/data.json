@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "2024-05-26",
+      "path": "Mi carrera/2024-05-26.md"
+    },
+    {
+      "basename": "2024-05-25",
+      "path": "Mi carrera/2024-05-25.md"
+    },
+    {
+      "basename": "Elemento",
+      "path": "HTML/Elemento.md"
+    },
+    {
+      "basename": "Elementos",
+      "path": "HTML/Elementos.md"
+    },
+    {
+      "basename": "2024-05-24",
+      "path": "Mi carrera/2024-05-24.md"
+    },
+    {
+      "basename": "Introducción",
+      "path": "HTML/Introducción.md"
+    },
+    {
       "basename": "2024-05-23",
       "path": "Mi carrera/2024-05-23.md"
+    },
+    {
+      "basename": "HTML Template",
+      "path": "HTML/HTML Template.md"
     },
     {
       "basename": "Proyectos",
@@ -23,10 +55,6 @@
     {
       "basename": "Flowcharts (Diagramas de flujo)",
       "path": "Flowcharts (Diagramas de flujo).md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Drink about",
@@ -171,34 +199,6 @@
     {
       "basename": "Una gramática inequívoca para if-then-else",
       "path": "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Una gramática inequívoca para if-then-else.md"
-    },
-    {
-      "basename": "Métodos formales para la descripción de la sintaxis",
-      "path": "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Métodos formales para la descripción de la sintaxis.md"
-    },
-    {
-      "basename": "Aspectos fundamentales de la sintaxis de los lenguajes de programación",
-      "path": "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Aspectos fundamentales de la sintaxis de los lenguajes de programación.md"
-    },
-    {
-      "basename": "Sintaxis y semántica",
-      "path": "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Sintaxis y semántica.md"
-    },
-    {
-      "basename": "Round up to the next multiple of 5",
-      "path": "Ejercicios JavaScript/Round up to the next multiple of 5.md"
-    },
-    {
-      "basename": "Clasificación de los lenguajes de programación",
-      "path": "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Clasificación de los lenguajes de programación.md"
-    },
-    {
-      "basename": "Tiempo de vida, asignación y desasignación de memoria, y categorías de variables",
-      "path": "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Tiempo de vida, asignación y desasignación de memoria, y categorías de variables.md"
-    },
-    {
-      "basename": "Variables y constantes",
-      "path": "Ciencias de la computación/FPL - Fundamentos de Lenguajes de Programación/Variables y constantes.md"
     }
   ],
   "omittedPaths": [],

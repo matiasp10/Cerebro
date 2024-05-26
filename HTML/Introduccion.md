@@ -1,3 +1,0 @@
-## Conceptos básicos 
-
-- [[Elemento]]
